@@ -1,0 +1,18 @@
+{
+  "name": "إدارة الفروع واللاينات | WorkM",
+  "short_name": "WorkM",
+  "description": "نظام البحث السريع وإدارة لاينات الفروع",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%232563eb'/%3E%3Cstop offset='100%25' stop-color='%230f172a'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='512' height='512' rx='110' fill='url(%23g)'/%3E%3Cpath d='M120 170h272v45H120zm0 85h200v45H120zm0 85h272v45H120z' fill='%23ffffff'/%3E%3Ccircle cx='370' cy='277' r='26' fill='%2322c55e'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
